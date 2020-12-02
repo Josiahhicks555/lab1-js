@@ -1,0 +1,19 @@
+//javascript
+var secondsInMinute = 60;
+var minutesInAHour = 60;
+var hoursInADay = 24;
+var daysInAYear= 365;
+
+var secondsInAnHour = secondsInMinute * minutesInAHour;
+document.write("The number of seconds in an hour is" + secondsInAnHour);
+document.write("<br>")
+
+var secondsInADay = secondsInAnHour * hoursInADay;
+document.write("The number of seconds in a day are " + secondsInADay);
+document.write("<br>")
+
+var secondsINAYear = secondsInADay * daysInAYear;
+document.write("The number of seconds in a year are " + secondsINAYear);
+document.write("<br>");
+document.write("<br>");
+document.write("created by Josiah");
