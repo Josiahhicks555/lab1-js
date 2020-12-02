@@ -1,0 +1,24 @@
+//javascript
+var numberOfApples = 10;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+document.write("The number of apples I have is " + numberOfApples + "<br>")
+numberOfApples++;
+
+document.writeln("<br><br>")
+
+var numberOfNinja = 100;
+document.writeln("There are " + --numberOfNinja + " ninjas in the room. <br>") 
+document.writeln("There are " + --numberOfNinja + " ninjas in the room. <br>") 
+document.writeln("There are " + --numberOfNinja + " ninjas in the room. <br>") 
+document.writeln("There are " + --numberOfNinja + " ninjas in the room. <br>") 
+document.writeln("There are " + --numberOfNinja + " ninjas in the room. <br><br>") 
+document.writeln("Created bt Josiah")
